@@ -1,0 +1,5 @@
+from .user_repository import UserRepository
+from .customer_repository import CustomerRepository
+from .restaurant_repository import RestaurantRepository
+from .order_repository import OrderRepository
+from .food_repository import FoodRepository
